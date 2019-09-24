@@ -1,0 +1,111 @@
+body{
+
+    background: #1f4037;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #99f2c8, #1f4037);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #99f2c8, #1f4037); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.fb{
+    background: #385898;
+    margin: 0px;
+    padding: 15px;
+    font-weight: 800;
+    color: aliceblue;
+    width: 100px;
+}
+.head_1{ 
+    font-weight: 800;
+    font-size: 50px;
+   
+
+ } 
+ .header{
+     margin-left: 100px;
+ }
+ .head_21{
+     font-size: 30px;
+ }
+ .first_name{
+    width: 180px;
+    padding-bottom: 15px;
+    margin-bottom: 30px;
+
+ }
+ .Last_name{
+    width: 187px;
+    padding-bottom: 15px;
+    margin-bottom: 30px;
+ }
+.Mobile_number{
+       width: 377px;
+       padding-bottom: 15px;
+       margin-bottom: 30px;
+
+   
+    }
+.Password{
+    width: 377px;
+    padding-bottom: 15px;
+}
+input[type=text] {
+    background-color: white;
+   
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    border: none;
+    border-radius: 4px;
+    border-bottom: 2px solid red;
+    outline: none !important;
+    font-size: 20px;
+  
+  }
+  input[type=password] {
+    background-color: white;
+   font-size: 20px;
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    border: none;
+    border-radius: 4px;
+    border-bottom: 2px solid red;
+    outline: none !important
+  
+  }
+.head_3{
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+.birthday{
+    font-size: 13px;
+    height: 30px;
+    padding: 5px;
+    width: 50px;
+}
+.Gender{
+    color: #1d2129;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 18px;
+    /* padding: 0 10px 0 3px; */
+    vertical-align: middle;
+    position: relative;
+    
+}
+
+.FeMale,
+.Male,
+.Custom{
+    margin-right: 10px;
+    display: inline-block;
+
+}
+.footer{
+    margin-top: 100px;
+    text-align: center;
+    background-color: rgb(53, 101, 233);
+    padding: 20px;
+    color: aliceblue;
+}
+
+
